@@ -36,20 +36,21 @@ I'm a second-year student at King's College London studying Computer Science.<!-
     <td valign="top" width="30%">
 
 
-#### Programming Languages:
+### Programming Languages:
 
 - Scala
 - C++
 - Python
 - Java
 
-#### Web Development:
+### Web Development:
 
 - Django
+- HTML
+- JavaScript
 - React
 - Express
 - Prisma
-- Docker
 - Testing:
   - Jest
   - React Testing Library
