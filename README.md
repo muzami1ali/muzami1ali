@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 I'm a second-year student at King's College London studying Computer Science.<!-- I'm currently working on [**BookingApp**](https://github.com/TomHurford/TeamTeam-BookingApp).--> I am always eager to learn new things and collaborate on exciting projects.
 
-### 🔭 My Skills
+## 🔭 My Skills
 
 #### Programming Languages:
 
@@ -61,7 +61,7 @@ I'm a second-year student at King's College London studying Computer Science.<!-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muzami1ali&layout=compact&theme=radical)
 -->
 
-### ⚙️ Tools & Environment
+## ⚙️ Tools & Environment
 
 - **Text Editor:** VSCode with Vim motion
 - **Command Line Interface:** Bash shell
