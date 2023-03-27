@@ -46,10 +46,11 @@ I'm a second-year student at King's College London studying Computer Science.<!-
   - Cypress
 <!-- - Docker -->
 
+<!--
 ### 🌟 Featured Projects
-
+--> <!--
 1. [**Ticketopia Booking App**](https://github.com/TomHurford/TeamTeam-BookingApp)
-   <!-- - A brief description of Project 1. -->
+   <!-- - A brief description of Project 1. --> <!--
 2. [**Music School Management System**](https://github.com/muzami1ali/Orca)
    <!-- - A brief description of Project 2. -->
 
