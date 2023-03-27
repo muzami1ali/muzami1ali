@@ -25,14 +25,14 @@ I'm a second-year student at King's College London studying Computer Science.<!-
 
 ## 🔭 My Skills
 
-#### Programming Languages:
+### Programming Languages:
 
 - Scala
 - C++
 - Python
 - Java
 
-#### Web Development:
+### Web Development:
 
 - Django
 - HTML
