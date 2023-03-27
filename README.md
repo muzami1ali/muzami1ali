@@ -25,7 +25,7 @@ I'm a second-year student at King's College London studying Computer Science.<!-
 
 <table>
   <tr>
-    <td valign="top" width="33%">
+    <td valign="top" width="30%">
 
 ## 🛠 Skills
 
@@ -62,7 +62,7 @@ I'm a second-year student at King's College London studying Computer Science.<!-
 - **API Development & Testing:** Postman
 
     </td>
-    <td valign="top" width="33.33%">
+    <td valign="top" width="35%">
 
 ## 🌟 Featured Projects
 
