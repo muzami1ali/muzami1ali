@@ -24,10 +24,17 @@ Here are some ideas to get you started:
 I'm a second-year student at King's College London studying Computer Science.<!-- I'm currently working on [**BookingApp**](https://github.com/TomHurford/TeamTeam-BookingApp).--> I am always eager to learn new things and collaborate on exciting projects.
 
 <table>
+  <thead>
+    <tr>
+      <th><h3><strong>🛠 Skills</strong></h3></th>
+      <th><h3><strong>⚙️ Tools & Environment</strong></h3></th>
+      <th><h3><strong>🌟 Featured Projects</strong></h3></th>
+    </tr>
+  </thead>
+  <tbody>
   <tr>
     <td valign="top" width="30%">
 
-## 🛠 Skills
 
 #### Programming Languages:
 
@@ -51,8 +58,7 @@ I'm a second-year student at King's College London studying Computer Science.<!-
     </td>
     <td valign="top" width="35%">
 
-## ⚙️ Tools & Environment
-
+####
 - **Text Editor:** VSCode with Vim motion
 - **Command Line Interface:** Bash shell
 - **Operating System:** Windows, macOS, Linux
@@ -64,12 +70,12 @@ I'm a second-year student at King's College London studying Computer Science.<!-
     </td>
     <td valign="top" width="35%">
 
-## 🌟 Featured Projects
-
+####
 1. [**Ticketopia Booking App**](https://github.com/TomHurford/TeamTeam-BookingApp)
 2. [**Music School Management System**](https://github.com/muzami1ali/Orca)
 
 
     </td>
   </tr>
+  </tbody>
 </table>
