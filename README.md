@@ -23,43 +23,33 @@ Here are some ideas to get you started:
 
 I'm a second-year student at King's College London studying Computer Science.<!-- I'm currently working on [**BookingApp**](https://github.com/TomHurford/TeamTeam-BookingApp).--> I am always eager to learn new things and collaborate on exciting projects.
 
-## 🔭 My Skills
+<table>
+  <tr>
+    <td valign="top" width="33%">
 
-### Programming Languages:
+## 🛠 Skills
+
+#### Programming Languages:
 
 - Scala
 - C++
 - Python
 - Java
 
-### Web Development:
+#### Web Development:
 
 - Django
-- HTML
-- JavaScript
 - React
 - Express
 - Prisma
+- Docker
 - Testing:
   - Jest
   - React Testing Library
   - Cypress
-<!-- - Docker -->
 
-<!--
-### 🌟 Featured Projects
---> <!--
-1. [**Ticketopia Booking App**](https://github.com/TomHurford/TeamTeam-BookingApp)
-   <!-- - A brief description of Project 1. --> <!--
-2. [**Music School Management System**](https://github.com/muzami1ali/Orca)
-   <!-- - A brief description of Project 2. -->
-
-<!--
-### 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=muzami1ali&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muzami1ali&layout=compact&theme=radical)
--->
+    </td>
+    <td valign="top" width="35%">
 
 ## ⚙️ Tools & Environment
 
@@ -70,3 +60,16 @@ I'm a second-year student at King's College London studying Computer Science.<!-
 - **Database:** PostgreSQL
 - **Issue Tracking:** Trello, GitHub Issues
 - **API Development & Testing:** Postman
+
+    </td>
+    <td valign="top" width="33.33%">
+
+## 🌟 Featured Projects
+
+1. [**Ticketopia Booking App**](https://github.com/TomHurford/TeamTeam-BookingApp)
+2. [**Music School Management System**](https://github.com/muzami1ali/Orca)
+
+
+    </td>
+  </tr>
+</table>
