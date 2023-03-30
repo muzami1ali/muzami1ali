@@ -19,16 +19,16 @@ Here are some ideas to get you started:
 
 <!-- ![GitHub followers](https://img.shields.io/github/followers/muzami1ali?style=social) -->
 
-### 🌱 About Me
+### About Me
 
 I'm a second-year student at King's College London studying Computer Science.<!-- I'm currently working on [**BookingApp**](https://github.com/TomHurford/TeamTeam-BookingApp).--> I am always eager to learn new things and collaborate on exciting projects.
 
 <table>
   <thead>
     <tr>
-      <th><h3><strong>🛠 Skills</strong></h3></th>
-      <th><h3><strong>⚙️ Tools & Environment</strong></h3></th>
-      <th><h3><strong>🌟 Featured Projects</strong></h3></th>
+      <th><h3><strong>Skills</strong></h3></th>
+      <th><h3><strong>Tools & Environment</strong></h3></th>
+      <th><h3><strong>Featured Projects</strong></h3></th>
     </tr>
   </thead>
   <tbody>
