@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ### About Me
 
-I'm a second-year student at King's College London studying Computer Science.<!-- I'm currently working on [**BookingApp**](https://github.com/TomHurford/TeamTeam-BookingApp).--> I am always eager to learn new things and collaborate on exciting projects.
+I'm a third-year student at King's College London studying Computer Science.<!-- I'm currently working on [**BookingApp**](https://github.com/TomHurford/TeamTeam-BookingApp).--> I am always eager to learn new things and collaborate on exciting projects.
 
 <table>
   <thead>
