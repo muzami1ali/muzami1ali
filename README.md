@@ -72,8 +72,9 @@ I'm a third-year student at King's College London studying Computer Science.<!--
     <td valign="top" width="35%">
 
 ####
-1. [**Ticketopia Booking App**](https://github.com/TomHurford/TeamTeam-BookingApp)
-2. [**Music School Management System**](https://github.com/muzami1ali/Orca)
+1. [**Python Compiler**](https://github.com/muzami1ali/py-compiler)
+2. [**Ticketopia Booking App**](https://github.com/TomHurford/TeamTeam-BookingApp)
+3. [**Music School Management System**](https://github.com/muzami1ali/Orca)
 
 
     </td>
